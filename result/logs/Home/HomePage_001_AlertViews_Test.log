@@ -1,0 +1,7 @@
+[2017-05-04 15:28:25] [INFO] alertViews 测试用例开始执行！
+[2017-05-04 15:28:29] [INFO] 点击元素： xpath: //*[@label='Alert Views']
+[2017-05-04 15:28:34] [INFO] 点击元素： xpath: //*[@label='Okay / Cancel']
+[2017-05-04 15:28:43] [INFO] 接受了alert
+[2017-05-04 15:28:43] [INFO] alertViews 测试用例执行成功！
+[2017-05-04 15:28:43] [INFO] UICatalog已经关闭
+[2017-05-04 15:28:43] [INFO] 执行成功的用例 = alertViews

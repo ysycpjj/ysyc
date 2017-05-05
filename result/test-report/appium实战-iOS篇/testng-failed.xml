@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [appium实战-iOS篇]" parallel="tests">
+  <parameter name="appPackage" value="com.microsoft.bing"/>
+  <parameter name="elementTimeOut" value="15"/>
+  <parameter name="deviceName" value="iPhone 6"/>
+  <parameter name="iosAppPath" value="res/app/ios/UICatalog.app"/>
+  <parameter name="appActivity" value="com.microsoft.clients.bing.app.MainActivity"/>
+  <parameter name="serverURL" value="http://127.0.0.1:4723/wd/hub"/>
+  <parameter name="platformVersion" value="8.4"/>
+  <parameter name="automationName" value="Appium"/>
+  <parameter name="appFilePath" value="res/properties/android/app.properties"/>
+  <parameter name="sleepTime" value="1"/>
+  <parameter name="unicodeKeyboard" value="true"/>
+  <parameter name="sessionOverride" value="true"/>
+  <parameter name="platformName" value="iOS"/>
+  <parameter name="udid" value=""/>
+  <parameter name="resetKeyboard" value="true"/>
+  <listeners>
+    <listener class-name="com.young.appiumcombat.plugins.excelReporter.TestResultListener"/>
+    <listener class-name="com.young.appiumcombat.plugins.excelReporter.ExcelReporter"/>
+  </listeners>
+  <test name="WEBVIEW">
+    <packages>
+      <package name="com.young.appiumcombat.testcases.ios.home"/>
+    </packages>
+    <classes>
+      <class name="com.young.appiumcombat.testcases.ios.home.HomePage_001_AlertViews_Test"/>
+    </classes>
+  </test> <!-- WEBVIEW -->
+</suite> <!-- Failed suite [appium实战-iOS篇] -->

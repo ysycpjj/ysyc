@@ -1,0 +1,53 @@
+[2017-05-04 18:16:55] [INFO] 必应搜索APP已经启动
+[2017-05-04 18:16:55] [INFO] searchDemo 测试用例开始执行！
+[2017-05-04 18:17:01] [INFO] 点击元素： id: com.microsoft.bing:id/tutorial_finish_button
+[2017-05-04 18:17:04] [INFO] 点击元素： id: android:id/button2
+[2017-05-04 18:17:06] [INFO] 点击元素： id: com.microsoft.bing:id/search
+[2017-05-04 18:17:11] [INFO] 在元素： id: com.microsoft.bing:id/search_text_field输入内容：Java
+[2017-05-04 18:17:13] [INFO] 点击元素： id: com.microsoft.bing:id/opal_as_web
+[2017-05-04 18:17:14] [INFO] 开始查找元素[By.xpath: //*[@class='b_hList']/li[2]]
+[2017-05-04 18:17:15] [INFO] 找到了元素 [By.xpath: //*[@class='b_hList']/li[2]]
+[2017-05-04 18:17:15] [INFO] 开始查找元素[By.xpath: //*[@class='b_hList']/li[4]]
+[2017-05-04 18:17:15] [INFO] 找到了元素 [By.xpath: //*[@class='b_hList']/li[4]]
+[2017-05-04 18:17:15] [INFO] 开始查找元素[id('b_results')/li]
+[2017-05-04 18:17:16] [INFO] 找到了元素 [id('b_results')/li]
+[2017-05-04 18:17:16] [INFO] The [Java] is contains [Java]
+[2017-05-04 18:17:16] [INFO] searchDemo 测试用例执行成功！
+[2017-05-04 18:17:16] [INFO] searchDemo 测试用例开始执行！
+[2017-05-04 18:17:26] [WARN] searchDemo 测试用例执行失败！
+[2017-05-04 18:17:36] [ERROR] [SearchPage_001_SearchDemo_Test] ,截图失败，原因：unknown error: unhandled inspector error: {"code":-32603,"message":"Unable to capture screenshot"}
+  (Session info: webview=30.0.0.0)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.12.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'liangdeMacBook-Pro.local', ip: '192.168.1.99', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/a/Documents/study/14/appiumcombat/res/app/android/bing.apk, appPackage=com.microsoft.bing, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, avd=Android-001, platform=LINUX, appActivity=com.microsoft.clients.bing.app.MainActivity, desired={app=/Users/a/Documents/study/14/appiumcombat/res/app/android/bing.apk, appPackage=com.microsoft.bing, appActivity=com.microsoft.clients.bing.app.MainActivity, platformVersion=4.4.2, automationName=Appium, sessionOverride=true, unicodeKeyboard=true, platformName=Android, deviceName=appium-test-avd, resetKeyboard=true, avd=Android-001}, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, sessionOverride=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+Session ID: 66b0225e-6d8c-4766-9b71-36119d2cd508
+[2017-05-04 18:17:36] [INFO] searchDemo 测试用例开始执行！
+[2017-05-04 18:17:46] [WARN] searchDemo 测试用例执行失败！
+[2017-05-04 18:17:56] [ERROR] [SearchPage_001_SearchDemo_Test] ,截图失败，原因：unknown error: unhandled inspector error: {"code":-32603,"message":"Unable to capture screenshot"}
+  (Session info: webview=30.0.0.0)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.12.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'liangdeMacBook-Pro.local', ip: '192.168.1.99', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/a/Documents/study/14/appiumcombat/res/app/android/bing.apk, appPackage=com.microsoft.bing, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, avd=Android-001, platform=LINUX, appActivity=com.microsoft.clients.bing.app.MainActivity, desired={app=/Users/a/Documents/study/14/appiumcombat/res/app/android/bing.apk, appPackage=com.microsoft.bing, appActivity=com.microsoft.clients.bing.app.MainActivity, platformVersion=4.4.2, automationName=Appium, sessionOverride=true, unicodeKeyboard=true, platformName=Android, deviceName=appium-test-avd, resetKeyboard=true, avd=Android-001}, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, sessionOverride=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+Session ID: 66b0225e-6d8c-4766-9b71-36119d2cd508
+[2017-05-04 18:17:56] [INFO] searchDemo 测试用例开始执行！
+[2017-05-04 18:18:06] [WARN] searchDemo 测试用例执行失败！
+[2017-05-04 18:18:16] [ERROR] [SearchPage_001_SearchDemo_Test] ,截图失败，原因：unknown error: unhandled inspector error: {"code":-32603,"message":"Unable to capture screenshot"}
+  (Session info: webview=30.0.0.0)
+  (Driver info: chromedriver=2.21.371459 (36d3d07f660ff2bc1bf28a75d1cdabed0983e7c4),platform=Mac OS X 10.12.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'liangdeMacBook-Pro.local', ip: '192.168.1.99', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.12.4', java.version: '1.8.0_101'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{app=/Users/a/Documents/study/14/appiumcombat/res/app/android/bing.apk, appPackage=com.microsoft.bing, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, avd=Android-001, platform=LINUX, appActivity=com.microsoft.clients.bing.app.MainActivity, desired={app=/Users/a/Documents/study/14/appiumcombat/res/app/android/bing.apk, appPackage=com.microsoft.bing, appActivity=com.microsoft.clients.bing.app.MainActivity, platformVersion=4.4.2, automationName=Appium, sessionOverride=true, unicodeKeyboard=true, platformName=Android, deviceName=appium-test-avd, resetKeyboard=true, avd=Android-001}, platformVersion=4.4.2, webStorageEnabled=false, locationContextEnabled=false, automationName=Appium, takesScreenshot=true, javascriptEnabled=true, sessionOverride=true, unicodeKeyboard=true, platformName=Android, resetKeyboard=true}]
+Session ID: 66b0225e-6d8c-4766-9b71-36119d2cd508
+[2017-05-04 18:18:16] [INFO] 必应搜索APP已经关闭
+[2017-05-04 18:19:53] [INFO] 执行成功的用例 = searchDemo
+[2017-05-04 18:19:53] [INFO] 执行失败的用例 = searchDemo
+[2017-05-04 18:19:53] [INFO] 执行失败的用例 = searchDemo
+[2017-05-04 18:19:53] [INFO] 执行失败的用例 = searchDemo

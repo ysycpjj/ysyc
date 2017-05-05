@@ -1,0 +1,13 @@
+[2017-05-04 18:19:59] [INFO] 必应搜索APP已经启动
+[2017-05-04 18:19:59] [INFO] searchHistery 测试用例开始执行！
+[2017-05-04 18:20:03] [INFO] 点击元素： id: com.microsoft.bing:id/tutorial_finish_button
+[2017-05-04 18:20:12] [INFO] 点击元素： id: android:id/button2
+[2017-05-04 18:20:14] [INFO] 点击元素： id: com.microsoft.bing:id/search
+[2017-05-04 18:20:20] [INFO] 在元素： id: com.microsoft.bing:id/search_text_field输入内容：Java
+[2017-05-04 18:20:22] [INFO] 点击元素： id: com.microsoft.bing:id/opal_as_web
+[2017-05-04 18:20:23] [INFO] 点击元素： id: com.microsoft.bing:id/opal_header_logo
+[2017-05-04 18:20:26] [INFO] 点击元素： id: com.microsoft.bing:id/search
+[2017-05-04 18:20:27] [INFO] 点击元素： id: com.microsoft.bing:id/opal_as_history
+[2017-05-04 18:20:29] [INFO] searchHistery 测试用例执行成功！
+[2017-05-04 18:20:29] [INFO] 必应搜索APP已经关闭
+[2017-05-04 18:20:35] [INFO] 执行成功的用例 = searchHistery
